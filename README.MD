@@ -3,7 +3,8 @@
 #### ⭐ REALISED AT 100 ⭐
 
 A SteelSeries Account Generator, that auto create the acc, get the mail verify link, and get promo code and export :) 😊  
-  
+
+<img src="https://media.discordapp.net/attachments/1051431989053489202/1052112966989914122/image.png" align="center" height="" width="" />
 
 ### What in  
 => Mail Verification
