@@ -1,6 +1,6 @@
 # <div align="center"> 🔥Discord Promo/SteelSeries Account Generator🔥</div>
 
-#### ⭐ REALISED AT 100 ⭐
+## ⭐ REALISED AT 100 ⭐
 
 A SteelSeries Account Generator, that auto create the acc, get the mail verify link, and get promo code and export :) 😊  
 
